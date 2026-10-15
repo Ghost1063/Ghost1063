@@ -1,6 +1,21 @@
 ## Hi there 👋
 
-<!--
+<!--Hi, I'm Ghost👋
+‎
+‎Rust developer building on the Stellar network: Soroban smart contracts, tooling and open-source fixes.
+‎Active contributor in the Stellar Wave program on Drips 🌊
+‎
+‎ 🛠️ What I work with
+‎- Languages: Rust, TypeScript, Python...
+‎- **Stellar:** Soroban SDK, Stellar CLI, Horizon / RPC
+‎- Tools: Git, Cargo...
+‎
+‎ 📈 Currently
+‎- Contributing to Stellar ecosystem repos through Drips Wave
+‎- Open to: collaborations, open-source work and Rust/Stellar roles
+‎
+‎Rust dev building on Stellar 🌊 | Soroban smart contracts | Drips Wave contributor
+
 **Ghost1063/Ghost1063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
